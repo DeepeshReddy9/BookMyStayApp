@@ -34,7 +34,7 @@ class BookingQueue {
     }
 }
 
-public class UC5 {
+public class UC6 {
     public static void main(String[] args) {
 
         BookingQueue bookingQueue = new BookingQueue();
